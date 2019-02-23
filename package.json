@@ -1,0 +1,8 @@
+{
+  "name": "baasf",
+  "version": "1.0.0",
+  "description": "Small app to help us find a house",
+  "dependencies": {
+    "node-lifx": "0.8.*"
+  }
+}
